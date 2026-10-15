@@ -62,3 +62,4 @@ This is a student project built for learning and showcasing skills. Feedback and
 ## 🙌 Support
 
 If you find this project interesting, consider giving it a ⭐ on GitHub. We'd really appreciate it!
+Deployed link - https://expense-insight-six.vercel.app/
